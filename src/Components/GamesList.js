@@ -29,7 +29,7 @@ function GamesList(props) {
     }, [])
 
     function fetchGames() {
-        Axios.fetch(BASEURL + `/game/all`,{withCredentials: true}).then(res => res.json()).then(json => {
+        Axios.get(BASEURL + `/game/all`,{withCredentials: true}).then(res => res.json()).then(json => {
             setGames(json.games);
             setmyplayerid(json.userId);
         })

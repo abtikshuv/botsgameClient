@@ -38,7 +38,7 @@ function CanvasDisplay(props) {
             setCurrentStep(0);
         }
         if (gameid) {
-            Axios.fetch(BASEURL + `/game/byid/${gameid}`,{withCredentials: true}).then(res => res.json()).then(json => {
+            Axios.get(BASEURL + `/game/byid/${gameid}`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setInfo(json);
                 setCurrentStep(0);
             })
