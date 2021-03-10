@@ -15,7 +15,7 @@ const AuthCheck = ({ setCurrentView }) => {
         Axios.post(BASEURL + '/auth/login', {
             username: usernameRef.current.value,
             password: passwordRef.current.value,
-        }).then(res => {
+        },{withCredentials: true}).then(res => {
             if (res.status !== 200) {
                 setMsg('error logging in');
                 return;
