@@ -50,7 +50,7 @@ function CanvasDisplay(props) {
             setUsers([{ id: 999, name: "YOU" }, { id: 888, name: "ENEMY" }]);
         }
         else {
-            Axios.fetch(BASEURL + `/users`,{withCredentials: true}).then(res => res.json()).then(json => {
+            Axios.get(BASEURL + `/users`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setUsers(json);
             })
         }

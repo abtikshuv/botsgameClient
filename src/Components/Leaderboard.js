@@ -14,7 +14,7 @@ function Leaderboard() {
     }, [])
 
     function fetchLeaderboard() {
-        Axios.get(BASEURL + '/leaderboard', { withCredentials: true }).then(res => res.json()).then(json => {
+        fetch(BASEURL + '/leaderboard', { credentials:"include" }).then(res => res.json()).then(json => {
             setLeaderboard(json);
         }).catch((e) => { });
     }
