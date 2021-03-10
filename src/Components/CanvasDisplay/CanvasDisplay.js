@@ -3,6 +3,7 @@ import GameFrame from './GameFrame';
 import { ownerDocument, Button, ButtonGroup, Slider } from '@material-ui/core';
 
 import { BASEURL } from '../../config.js';
+import Axios from 'axios';
 
 
 
@@ -37,7 +38,7 @@ function CanvasDisplay(props) {
             setCurrentStep(0);
         }
         if (gameid) {
-            fetch(BASEURL + `/game/byid/${gameid}`,{withCredentials: true}).then(res => res.json()).then(json => {
+            Axios.fetch(BASEURL + `/game/byid/${gameid}`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setInfo(json);
                 setCurrentStep(0);
             })
@@ -49,7 +50,7 @@ function CanvasDisplay(props) {
             setUsers([{ id: 999, name: "YOU" }, { id: 888, name: "ENEMY" }]);
         }
         else {
-            fetch(BASEURL + `/users`,{withCredentials: true}).then(res => res.json()).then(json => {
+            Axios.fetch(BASEURL + `/users`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setUsers(json);
             })
         }
