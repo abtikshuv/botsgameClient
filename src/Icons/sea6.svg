@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>sea6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sea6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_039_-_Web_Protection_3412909" transform="translate(14.000000, 14.000000)" stroke="#000000" stroke-width="2">
+            <rect id="Rectangle-path" x="0" y="0" width="58" height="58" rx="4"></rect>
+            <path d="M0,8 L58,8" id="Shape"></path>
+            <path d="M5,4 L6,4" id="Shape"></path>
+            <path d="M19,4 L53,4" id="Shape"></path>
+            <path d="M28,54 L28.762,54 C32.6193508,54.1413895 36.3835062,52.7949002 39.276,50.239 C42.3514456,47.3269715 44.0650215,43.258861 44,39.024 L44,16.755 C44,16.755 34.857,18.34 28,12 C21.143,18.34 12,16.755 12,16.755 L12,39.024 C11.9349785,43.258861 13.6485544,47.3269715 16.724,50.239 C19.6164938,52.7949002 23.3806492,54.1413895 27.238,54 L28,54 Z" id="Shape"></path>
+            <path d="M27.238,50 C24.3789338,50.1225968 21.5808705,49.1493729 19.415,47.279 C17.169908,45.1276421 15.9309339,42.1326989 16,39.024 L16,20.894 C20.2676844,20.7023992 24.4083093,19.38292 28,17.07 C31.5916907,19.38292 35.7323156,20.7023992 40,20.894 L40,39.024 C40.0690661,42.1326989 38.830092,45.1276421 36.585,47.279 C34.4191295,49.1493729 31.6210662,50.1225968 28.762,50 L27.238,50 Z" id="Shape"></path>
+            <path d="M28,17.07 L28,50" id="Shape"></path>
+            <path d="M16,34 L40,34" id="Shape"></path>
+            <path d="M20,25 L21,24" id="Shape"></path>
+            <path d="M20,30 L24,26" id="Shape"></path>
+            <path d="M32,39 L33,38" id="Shape"></path>
+            <path d="M32,44 L36,40" id="Shape"></path>
+        </g>
+    </g>
+</svg>

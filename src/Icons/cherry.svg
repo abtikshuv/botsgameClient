@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>cherry</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cherry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_thin-0901_cherry_fruit_388235" transform="translate(14.000000, 13.000000)">
+            <g id="Group" transform="translate(9.666667, 0.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4">
+                <path d="M18.7932083,40.18104 C20.8398833,36.59736 25.0064583,34.44528 29.3214167,35.21568 C34.7871917,36.19152 38.4216167,41.3832 37.4387583,46.81128 C36.4559,52.23936 31.2284083,55.84872 25.7626333,54.87264 C23.1163833,54.40008 20.9641,52.8348 19.4925917,50.83776" id="Path"></path>
+                <ellipse id="Oval" cx="10.6623333" cy="46.05576" rx="10.0555083" ry="9.98616"></ellipse>
+                <polyline id="Path" points="12.8830083 31.76904 18.7501917 18.85176 25.8982083 35.2044"></polyline>
+                <path d="M18.78185,19.098 C18.78185,19.098 16.7723917,5.6136 37.460025,2.03688 C37.460025,2.03688 39.7244417,30.30264 18.78185,19.098 Z" id="Path"></path>
+                <path d="M32.1179833,8.97048 C32.1179833,8.97048 28.575875,11.77248 24.739175,13.0776 C20.902475,14.38272 18.8299417,18.76992 18.8299417,18.76992" id="Path"></path>
+                <path d="M18.7501917,18.85176 C18.8297,9.114 3.97710833,10.07448 3.97710833,10.07448 C3.97710833,10.07448 6.48391667,27.35952 18.7501917,18.85176 Z" id="Path"></path>
+            </g>
+            <rect id="Rectangle" x="0" y="0.08304" width="58" height="57.6"></rect>
+        </g>
+    </g>
+</svg>

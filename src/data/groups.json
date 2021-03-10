@@ -1,0 +1,82 @@
+[
+    {
+        "name": "SuperTeam",
+        "color": "#ad0e0e",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "B",
+        "color": "#ad6d0e",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "C",
+        "color": "#ada10e",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "D",
+        "color": "#8dad0e",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "E",
+        "color": "#0ead22",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "F",
+        "color": "#0ead97",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "G",
+        "color": "#0e64ad",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "H",
+        "color": "#251388",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "I",
+        "color": "#6b1388",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    },
+    {
+        "name": "J",
+        "color": "#9e1a45",
+        "users": [
+            "avi",
+            "shaked"
+        ]
+    }
+]

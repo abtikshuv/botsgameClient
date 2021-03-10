@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>lemon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lemon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_thin-0907_orange_lemon_lime_citrus_fruit_388230" transform="translate(14.000000, 13.000000)">
+            <g id="Group" transform="translate(0.000000, 19.200000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.40963855">
+                <path d="M56.546375,1.37808 C56.546375,16.896 44.2134,29.4756 28.9997583,29.4756 C13.7861167,29.4756 1.45338333,16.89576 1.45338333,1.37808" id="Path"></path>
+                <path d="M31.581725,1.37808 C31.581725,2.80416 30.4483083,3.96 29.0502667,3.96 C27.652225,3.96 26.5188083,2.80392 26.5188083,1.37808 L6.5134,1.37808 C6.5134,14.04552 16.5812333,24.3144 29,24.3144 C41.4187667,24.3144 51.4866,14.04552 51.4866,1.37808 L31.581725,1.37808 Z" id="Path"></path>
+                <path d="M29,24.3144 L29,3.96" id="Path"></path>
+                <path d="M44.570825,17.91864 L30.4582167,3.52368" id="Path"></path>
+                <path d="M13.513275,17.91864 L27.6258833,3.52368" id="Path"></path>
+                <path d="M21.7287333,5.01408 L19.9732667,5.9124" id="Path"></path>
+                <path d="M31.7059417,8.94408 L32.663425,11.07528" id="Path"></path>
+            </g>
+            <rect id="Rectangle" x="0" y="0.08304" width="58" height="57.6"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>tool5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="tool5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_010_-_Mail_analysis_3159008" transform="translate(14.000000, 13.000000)" stroke="#000000" stroke-width="2">
+            <path d="M-6.5834801e-06,21 L-6.5834801e-06,55 C-0.00182166201,55.8644501 0.37447923,56.6864666 1.03,57.25 C1.57039848,57.7365323 2.27286284,58.003968 2.99999342,58.0000435 L54.9999934,58.0000435 C55.7271372,58.003968 56.4296015,57.7365323 56.97,57.25 C57.6255208,56.6864666 58.0018217,55.8644501 58.0000066,55 L58.0000066,21" id="Shape"></path>
+            <path d="M58,21 L50,15.01" id="Shape"></path>
+            <path d="M8,15.01 L0,21" id="Shape"></path>
+            <path d="M20.59,43.09 L1.03,57.25" id="Shape"></path>
+            <path d="M18.16,34.15 L0,21" id="Shape"></path>
+            <path d="M58,21 L39.84,34.15" id="Shape"></path>
+            <path d="M8,26.79 L8,2 C8.00322927,0.896770878 8.89677088,0.00322927335 10,0 L48,0 C49.1032291,0.00322927335 49.9967707,0.896770878 50,2 L50,26.79" id="Shape"></path>
+            <rect id="Rectangle-path" x="13" y="5" width="4" height="6" rx="2"></rect>
+            <rect id="Rectangle-path" x="27" y="5" width="4" height="6" rx="2"></rect>
+            <rect id="Rectangle-path" x="41" y="5" width="4" height="6" rx="2"></rect>
+            <polyline id="Shape" points="21 6 22 5 22 11 21 11 23 11"></polyline>
+            <polyline id="Shape" points="35 6 36 5 36 11 35 11 37 11"></polyline>
+            <rect id="Rectangle-path" x="20" y="15" width="4" height="6" rx="2"></rect>
+            <polyline id="Shape" points="14 16 15 15 15 21 14 21 16 21"></polyline>
+            <rect id="Rectangle-path" x="34" y="15" width="4" height="6" rx="2"></rect>
+            <polyline id="Shape" points="28 16 29 15 29 21 28 21 30 21"></polyline>
+            <polyline id="Shape" points="42 16 43 15 43 21 42 21 44 21"></polyline>
+            <circle id="Oval" cx="29" cy="36" r="11"></circle>
+            <circle id="Oval" cx="29" cy="36" r="7"></circle>
+            <path d="M35.23,45.06 L47.67,57.5 C47.9129083,57.7429329 48.216964,57.9156919 48.55,58 C48.8981859,58.1099966 49.2718141,58.1099966 49.62,58 C49.953036,57.9156919 50.2570917,57.7429329 50.5,57.5 C51.2800019,56.7179042 51.2800019,55.4520958 50.5,54.67 L38.06,42.23" id="Shape"></path>
+        </g>
+    </g>
+</svg>

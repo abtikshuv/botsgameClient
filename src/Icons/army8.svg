@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>army8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="army8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_001_-_CCTV_3159037" transform="translate(19.000000, 14.000000)" stroke="#000000" stroke-width="2">
+            <path d="M6,23 L42,23 C43.1045695,23 44,23.8954305 44,25 L44,49 C44,51.209139 42.209139,53 40,53 L8,53 C5.790861,53 4,51.209139 4,49 L4,25 C4,23.8954305 4.8954305,23 6,23 Z" id="Shape"></path>
+            <path d="M9,23 L39,23 L39,47 C39,48.1045695 38.1045695,49 37,49 L11,49 C9.8954305,49 9,48.1045695 9,47 L9,23 Z" id="Shape"></path>
+            <circle id="Oval" cx="24" cy="36" r="9"></circle>
+            <circle id="Oval" cx="25" cy="37" r="3"></circle>
+            <rect id="Rectangle-path" x="20" y="53" width="8" height="5"></rect>
+            <path d="M0,40 L0,24 C0,21.2385763 2.23857625,19 5,19 L24,19" id="Shape"></path>
+            <path d="M48,40 L48,24 C48,21.2385763 45.7614237,19 43,19 L24,19" id="Shape"></path>
+            <path d="M1,21 L12.42416,1.00772 C12.7802469,0.38456967 13.4429354,0 14.16065,0 L24,0" id="Shape"></path>
+            <path d="M47,21 L35.57584,1.00772 C35.2197531,0.38456967 34.5570646,0 33.83935,0 L24,0" id="Shape"></path>
+            <path d="M22,4 L27,4" id="Shape"></path>
+            <path d="M31,4 L33,4" id="Shape"></path>
+        </g>
+    </g>
+</svg>

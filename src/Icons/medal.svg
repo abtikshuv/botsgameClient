@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>medal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="medal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="iconfinder_medal2-weapon-war-army_4167358" transform="translate(6.000000, 28.000000)" stroke="#000000" stroke-width="2.45378151">
+            <path d="M10.7171975,14.4 C13.8908571,17.9811 18.1926429,20.3916 22.9081975,21.2508" id="Path"></path>
+            <path d="M49.901021,21.2847 C54.691416,20.4564 59.0665084,18.0294 62.2828025,14.4" id="Path"></path>
+            <path d="M26.4922521,7.2219 L5.3357479,7.2219 L9.03083613,12.36 C9.54797059,13.0791 10.1132605,13.7583 10.7168908,14.4 L22.9081975,14.4" id="Path"></path>
+            <path d="M49.8997941,14.4 L62.2828025,14.4 C62.8867395,13.7583 63.4517227,13.0791 63.9688571,12.36 L67.6642521,7.2219 L46.4543782,7.2219" id="Path"></path>
+            <polyline id="Path" points="67.6642521 7.2219 72.7064664 0 0.293533613 0 5.3357479 7.2219"></polyline>
+            <ellipse id="Oval" cx="36.4043025" cy="16.8" rx="13.4957983" ry="13.2"></ellipse>
+            <polygon id="Path" points="38.080542 13.986 42.1844916 13.5651 39.734084 16.8126 42.1587269 20.0787 38.0581513 19.6266 36.3785378 23.3133 34.7283697 19.614 30.6244202 20.0349 33.0748277 16.7874 30.6501849 13.5213 34.7507605 13.9734 36.4303739 10.2867"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>animal9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="animal9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_owl_animal_bird_2718088" transform="translate(18.000000, 11.000000)">
+            <g id="Group" stroke="#394553" stroke-width="2.5">
+                <path d="M45.061,10.38 C46.889,8.207 48.668,4.713 48.301,0.558 C48.301,0.558 45.52,5.165 38.446,5.165 L10.556,5.165 C3.483,5.165 0.702,0.558 0.702,0.558 C0.343,4.615 2.03,8.052 3.81,10.222" id="Path" stroke-linejoin="round"></path>
+                <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="30.434 25.999 24.524 33.755 24.476 33.755 18.566 25.999"></polyline>
+                <g transform="translate(14.000000, 53.000000)" id="Oval">
+                    <ellipse cx="4.07" cy="4.991" rx="4.019" ry="4.451"></ellipse>
+                    <ellipse cx="16.931" cy="4.991" rx="4.019" ry="4.451"></ellipse>
+                </g>
+                <path d="M20.067,24.037 C20.067,24.037 24.686,20.79 28.934,24.061" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M22.219,58.478 L26.781,58.478" id="Path" stroke-linejoin="round"></path>
+                <g transform="translate(0.000000, 29.000000)" id="Path" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M9.97,15.452 C8.981,3.829 1.518,0.616 1.518,0.616 C-0.487,8.09 -0.323,19.473 14.036,27.557"></path>
+                    <path d="M34.965,27.557 C49.322,19.473 49.486,8.09 47.483,0.616 C47.483,0.616 40.02,3.829 39.032,15.452"></path>
+                </g>
+                <g transform="translate(4.000000, 11.000000)" id="Oval">
+                    <circle cx="32.104" cy="8.625" r="8.408"></circle>
+                    <circle cx="8.897" cy="8.625" r="8.408"></circle>
+                </g>
+            </g>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="36.104" cy="19.625" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="12.897" cy="19.625" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="16.887" cy="40.58" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="24.5" cy="40.58" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="32.115" cy="40.58" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="20.693" cy="46.916" r="2.029"></circle>
+            <circle id="Oval" fill="#394553" fill-rule="nonzero" cx="28.309" cy="46.916" r="2.029"></circle>
+        </g>
+    </g>
+</svg>
