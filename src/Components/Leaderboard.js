@@ -3,7 +3,6 @@ import React, { useState, useEffect } from 'react';
 import LeaderboardChart from './LeaderboardChart';
 import LeaderboardTable from './LeaderboardTable';
 import { BASEURL } from '../config.js';
-import Axios from 'axios';
 
 function Leaderboard() {
 

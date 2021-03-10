@@ -4,7 +4,6 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import { FixedSizeList } from 'react-window';
 import { BASEURL } from '../config.js';
-import Axios from 'axios';
 
 const useStyles = makeStyles((theme) => ({
     root:
@@ -29,7 +28,7 @@ function GamesList(props) {
     }, [])
 
     function fetchGames() {
-        Axios.get(BASEURL + `/game/all`,{withCredentials: true}).then(res => res.json()).then(json => {
+        fetch(BASEURL + `/game/all`,{credentials: "include"}).then(res => res.json()).then(json => {
             setGames(json.games);
             setmyplayerid(json.userId);
         })
