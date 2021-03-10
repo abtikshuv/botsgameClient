@@ -28,7 +28,7 @@ function GamesList(props) {
     }, [])
 
     function fetchGames() {
-        fetch(BASEURL + `/game/all`).then(res => res.json()).then(json => {
+        fetch(BASEURL + `/game/all`,{withCredentials: true}).then(res => res.json()).then(json => {
             setGames(json.games);
             setmyplayerid(json.userId);
         })

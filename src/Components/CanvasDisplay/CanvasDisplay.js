@@ -37,7 +37,7 @@ function CanvasDisplay(props) {
             setCurrentStep(0);
         }
         if (gameid) {
-            fetch(BASEURL + `/game/byid/${gameid}`).then(res => res.json()).then(json => {
+            fetch(BASEURL + `/game/byid/${gameid}`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setInfo(json);
                 setCurrentStep(0);
             })
@@ -49,7 +49,7 @@ function CanvasDisplay(props) {
             setUsers([{ id: 999, name: "YOU" }, { id: 888, name: "ENEMY" }]);
         }
         else {
-            fetch(BASEURL + `/users`).then(res => res.json()).then(json => {
+            fetch(BASEURL + `/users`,{withCredentials: true}).then(res => res.json()).then(json => {
                 setUsers(json);
             })
         }

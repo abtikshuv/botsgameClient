@@ -13,7 +13,7 @@ function Leaderboard() {
     }, [])
 
     function fetchLeaderboard() {
-        fetch(BASEURL + '/leaderboard').then(res => res.json()).then(json => {
+        fetch(BASEURL + '/leaderboard',{withCredentials: true}).then(res => res.json()).then(json => {
             setLeaderboard(json);
         }).catch((e)=>{});
     }
