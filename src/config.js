@@ -1,3 +1,3 @@
-const BASEURL = 'http://localhost:8099/server/api'
+const BASEURL = 'https://botsgameserver.herokuapp.com/server/api'
 
 export  { BASEURL }
