@@ -5,7 +5,7 @@ import { Line } from 'react-chartjs-2';
 function LeaderboardChart(props) {
 
     const [chartData, setChartData] = useState({
-        labels: ['10:00','10:30', '11:00', '11:30', '12:00', '12:30', '13:00', '13:30', '14:00', '14:30', '15:00'],
+        labels: ['8:00','8:30','9:00','9:30','10:00','10:30', '11:00', '11:30', '12:00', '12:30', '13:00', '13:30', '14:00', '14:30', '15:00'],
         datasets: []
     });
 
@@ -15,7 +15,7 @@ function LeaderboardChart(props) {
 
     function updateData() {
         let dataObj = {}
-        dataObj.labels = ['10:00','10:30', '11:00', '11:30', '12:00', '12:30', '13:00', '13:30', '14:00', '14:30', '15:00'];
+        dataObj.labels = ['8:00','8:30','9:00','9:30','10:00','10:30', '11:00', '11:30', '12:00', '12:30', '13:00', '13:30', '14:00', '14:30', '15:00'];
         dataObj.datasets = [];
         if (props.leaderboard) {
             props.leaderboard.forEach(player => {
