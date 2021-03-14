@@ -9,7 +9,7 @@ import { BASEURL } from '../../config.js';
 function CanvasDisplay(props) {
 
     //const COLORS = ["linear-gradient(to right bottom, rgb(255, 0, 0), rgb(255, 153, 0))", "linear-gradient(to right bottom, rgb(255, 247, 0), rgb(255, 200, 0))", "linear-gradient(to right bottom, rgb(33, 138, 26), rgb(125, 216, 96))"];
-    const COLORS = ["#a91717", "#1f6f16", "#16396f", "#962092"]
+    const COLORS = ["#a91717", "#1f6f16", "#1dd96f", "#9fed092", "#126916", "#cd396f", "#ae20f2", "#654f16", "#1dd96f", "#96fe92", "#3def16", "#4f39e2", "#96abcd", "#1f6fe5", "#3e596f", "#9fed6da"]
 
     const [info, setInfo] = useState();
     const [users, setUsers] = useState();
