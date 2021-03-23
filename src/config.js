@@ -1,3 +1,3 @@
-const BASEURL = 'https://botsgameserver.herokuapp.com/server/api'
+const BASEURL = 'https://drone-app.tikshuv.navy.idf/server/api'
 
 export  { BASEURL }
